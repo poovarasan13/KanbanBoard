@@ -22,7 +22,9 @@ function App() {
       <KanbanProvider>
      <KanbanBoard/>
      </KanbanProvider>
-     <h1 className='text-red'>bgdskjbds</h1>
+     <div style={{justifyItems:"center"}}>
+          <h3 style={{color:"red"}}>Made by Poovarasan</h3>
+     </div>
     </>
   );
 }
