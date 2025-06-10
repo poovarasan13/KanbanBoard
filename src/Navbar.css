@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-link {
+    color: #f8fbf8;
+    text-decoration: none;
+    padding: 8px 12px;
+  }
+  
+  .nav-link:hover {
+    background-color: #6ed8ed;
+  }
+  
+  .active-home {
+    background-color: #0c8df7; 
+    color: white;
+  }
+  
+  .active-about {
+    background-color: #0c8df7; 
+    color: white;
+  }
+  
+  .active-contact {
+    background-color: #0c8df7; 
+    color: white;
+  }
+  
